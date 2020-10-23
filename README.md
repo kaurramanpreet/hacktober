@@ -1,2 +1,2 @@
-# hackoctober
-## HACKOCTOBER 2020
+# hacktober
+## HACKTOBER 2020
